@@ -48,6 +48,32 @@ In 2021, 2.5 quintillion bytes of data being created every day. In that almost 8
     * t-SNE 
     * pyLDAvis
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+Clone the project
+
+```bash
+  git clone https://github.com/LALITH23SUNDARAM/st_app.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt 
+```
+
+Start the server
+
+```bash
+  streamlit run app.py
+  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
 ## Acknowledgements
 
