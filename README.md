@@ -52,7 +52,7 @@ In 2021, 2.5 quintillion bytes of data being created every day. In that almost 8
 Clone the project
 
 ```bash
-  git clone https://github.com/LALITH23SUNDARAM/st_app.git
+  git clone https://github.com/LALITH23SUNDARAM/Topic-Modelling-on-BBC-News-Article.git
 ```
 
 Go to the project directory
