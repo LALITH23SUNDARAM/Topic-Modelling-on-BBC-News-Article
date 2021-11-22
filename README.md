@@ -72,9 +72,6 @@ Start the server
 ```bash
   streamlit run app.py
   
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-  
 ## Acknowledgements
 
  - [Towards Data Science](https://towardsdatascience.com/topic-modeling-quora-questions-with-lda-nmf-aff8dce5e1dd)
